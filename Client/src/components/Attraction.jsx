@@ -2,7 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Grid from '@material-ui/core/Grid';
 import Rating from '@material-ui/lab/Rating';
-import { Icon } from '@iconify/react';
 import FiberManualRecordIcon from '@material-ui/icons/FiberManualRecord';
 import DirectionsWalk from '@material-ui/icons/DirectionsWalk';
 import { StyledImg } from '../componentStyles';

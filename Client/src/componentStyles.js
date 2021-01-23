@@ -27,11 +27,11 @@ const StyledMainImg = styled(Avatar)({
 });
 
 const StyledDoc = styled(Grid)({
-  padding: '200px',
-  'background-color': '#f2f2f2',
+  padding: '50px',
+  'background-color': '#f9f2ea',
 });
 const StyledRoot = styled(Grid)({
-  'background-color': 'white',
+  'background-color': '#f9f2ea',
   'font-family': 'poppins',
 });
 

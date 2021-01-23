@@ -79,7 +79,7 @@ class App extends React.Component {
           { location
             && (
               <div>
-                <div className="reviews">
+                <div>
                   <Grid container spacing={0}>
                     <StyledWhatTravellers item xs={3}>
                       What travelers are saying about
