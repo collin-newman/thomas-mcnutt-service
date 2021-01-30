@@ -128,7 +128,7 @@ const seedDB = () => {
   insertSampleAttractions();
 };
 
-const mongoURI = 'mongodb://localhost/maps';
+const mongoURI = 'mongodb://mongo:27017/maps';
 mongoose.connect(mongoURI, {
   useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true, useFindAndModify: true,
 })
